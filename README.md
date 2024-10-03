@@ -153,6 +153,8 @@ if __name__ == "__main__":
 
 ### Output:
 ![Output](out.png)
+![Output](1.png)
+![Output](2.png)
 
 ### Result:
 Thus, the implementation of Information Retrieval using Boolean model had been successfully executed using python
